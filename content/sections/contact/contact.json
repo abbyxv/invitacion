@@ -1,13 +1,18 @@
 {
   "name": "Gatsby Starter For Portfolio Minimal",
   "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "Por favor confirma tu asistencia al whatsapp 81 8888 8888.",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": true
+    "showIcons": false
+  },
+  "button": {
+    "visible": true,
+    "label": "Confirmar Asistencia",
+    "url": "https://api.whatsapp.com/send?phone=12345678900&text=quiero%20confirmar%20mi%20asistencia%20al%20XV%20de%20Abby"
   }
 }

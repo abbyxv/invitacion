@@ -10,7 +10,7 @@ module.exports = {
           shortName: "Abby XV", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#F4BBD0", // Used in manifest.json
-          themeColor: "#000000", // Used in manifest.json
+          themeColor: "#F4BBD0", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",

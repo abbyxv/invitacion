@@ -4,33 +4,30 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+ABBY<br />
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>abbyXV15@gmail.com</u>
 
 ---
 
-#### Liability for Contents
+#### Responsabilidad por los Contenidos
 
-As service providers, we are liable for own contents of these websites according to Sec. 7, paragraph 1 German Telemedia Act (TMG). However, according to Sec. 8 to 10 German Telemedia Act (TMG), service providers are not obligated to permanently monitor submitted or stored information or to search for evidences that indicate illegal activities.
+Ni como proveedores de servicios, somos responsables de los contenidos propios de estos sitios web de acuerdo con la Sec. 7, párrafo 1 de la Ley de Telemedios Alemana (TMG). Sin embargo, según la Sec. 8 a 10 de la Ley de Telemedios Alemana (TMG), los proveedores de servicios no están obligados a monitorear permanentemente la información enviada o almacenada ni a buscar evidencias que indiquen actividades ilegales.
 
-Legal obligations to removing information or to blocking the use of information remain unchallenged. In this case, liability is only possible at the time of knowledge about a specific violation of law. Illegal contents will be removed immediately at the time we get knowledge of them.
+Las obligaciones legales de eliminar información o bloquear el uso de información permanecen incuestionables. En este caso, la responsabilidad sólo es posible en el momento del conocimiento de una infracción específica de la ley. Los contenidos ilegales serán eliminados inmediatamente en el momento en que tengamos conocimiento de ellos.
 
 ---
 
-#### Liability for Links
+#### Responsabilidad por enlaces
 
-Our offer includes links to external third party websites. We have no influence on the contents of those websites, therefore we cannot guarantee for those contents. Providers or administrators of linked websites are always responsible for their own contents.
+Nuestra oferta incluye enlaces a sitios web externos de terceros. No tenemos ninguna influencia sobre los contenidos de esos sitios web, por lo tanto, no podemos garantizar esos contenidos. Los proveedores o administradores de los sitios web enlazados son siempre responsables de sus propios contenidos.
 
-The linked websites had been checked for possible violations of law at the time of the establishment of the link. Illegal contents were not detected at the time of the linking. A permanent monitoring of the contents of linked websites cannot be imposed without reasonable indications that there has been a violation of law. Illegal links will be removed immediately at the time we get knowledge of them.
+Los sitios web vinculados habían sido verificados por posibles violaciones de la ley en el momento del establecimiento del enlace. No se detectaron contenidos ilegales en el momento de la vinculación. No puede imponerse un seguimiento permanente de los contenidos de los sitios web enlazados sin indicios razonables de que se ha producido una infracción de la ley. Los enlaces ilegales se eliminarán inmediatamente en el momento en que tengamos conocimiento de ellos.
 
 ---
 
 #### Copyright
 
-Contents and compilations published on these websites by the providers are subject to German copyright laws. Reproduction, editing, distribution as well as the use of any kind outside the scope of the copyright law require a written permission of the author or originator. Downloads and copies of these websites are permitted for private use only. The commercial use of our contents without permission of the originator is prohibited.
+Los contenidos y compilaciones publicados en estos sitios web por los proveedores están sujetos a las leyes alemanas de derechos de autor. La reproducción, edición, distribución, así como el uso de cualquier tipo fuera del alcance de la ley de derechos de autor requieren un permiso por escrito del autor o creador. Las descargas y copias de estos sitios web están permitidas únicamente para uso privado. Se prohíbe el uso comercial de nuestros contenidos sin el permiso del autor.
 
-Copyright laws of third parties are respected as long as the contents on these websites do not originate from the provider. Contributions of third parties on this site are indicated as such. However, if you notice any violations of copyright law, please inform us. Such contents will be removed immediately.
+Las leyes de derechos de autor de terceros se respetan siempre que los contenidos de estos sitios web no tengan su origen en el proveedor. Las contribuciones de terceros en este sitio se indican como tales. Sin embargo, si nota alguna violación de la ley de derechos de autor, infórmenos. Dichos contenidos serán eliminados inmediatamente.

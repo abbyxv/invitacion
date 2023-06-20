@@ -17,7 +17,7 @@
     "logo": { "text": "Abby XV" },
     "navigation": {
       "header": [
-        { "label": "Mensaje", "url": "/#about" },
+        { "label": "Mensaje", "url": "/#invitacion" },
         { "label": "Noticias", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }

@@ -39,6 +39,6 @@
   "button": {
     "visible": true,
     "label": "Confirmar Asistencia",
-    "url": "https://api.whatsapp.com/send?phone=12345678900&text=quiero%20confirmar%20mi%20asistencia%20al%20XV%20de%20Abby"
+    "url": "https://api.whatsapp.com/send?phone=+5218120635361&text=quiero%20confirmar%20mi%20asistencia%20al%20XV%20de%20Abby"
   }
 }

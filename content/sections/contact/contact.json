@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "Por favor confirma tu asistencia al whatsapp 81 8888 8888.",
+  "name": "Abby",
+  "email": "abbyxv15@gmail.com",
+  "description": "Por favor confirma tu asistencia al whatsapp 81 2063 5361.",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Abby XV"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Instagram"],
     "showIcons": false
   }
 }

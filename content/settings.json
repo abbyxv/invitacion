@@ -19,8 +19,8 @@
       "header": [
         { "label": "Mensaje", "url": "/#invitacion" },
         { "label": "Noticias", "url": "/noticias" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Lugar", "url": "/#lugar" },
+        { "label": "Confirma Asistencia", "url": "/#contacto" }
       ],
       "ctaButton": {
         "openNewTab": true,

@@ -1,7 +1,7 @@
 {
   "intro": "Hola",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/AbbyXV.png",
     "alt": "My Photo"
   },
   "image": {
@@ -14,9 +14,9 @@
     "highlight": "la fiesta",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Te esperamos.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["Instagram", "Mail"],
+    "showIcons": true
   }
 }

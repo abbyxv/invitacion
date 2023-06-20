@@ -17,7 +17,7 @@
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "mensaje", "url": "/#mensaje" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }

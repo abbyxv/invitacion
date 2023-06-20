@@ -18,7 +18,7 @@
     "navigation": {
       "header": [
         { "label": "Mensaje", "url": "/#invitacion" },
-        { "label": "Noticias", "url": "/blog" },
+        { "label": "Noticias", "url": "/noticias" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],

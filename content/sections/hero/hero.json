@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hola",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,10 +8,10 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Estas invitado al quinceaños de Abby",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Preparate para  ",
+    "highlight": "la fiesta",
     "suffix": "."
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",

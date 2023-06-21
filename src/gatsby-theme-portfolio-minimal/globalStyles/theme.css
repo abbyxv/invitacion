@@ -5,7 +5,7 @@ body[data-theme='lightTheme'] {
     --text-color: #000000;
     --subtext-color: #555555;
     --background-color: #F4BBD0;
-    --card-background-color: #da3873;
+    --card-background-color: #ECB4FA;
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);

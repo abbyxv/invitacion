@@ -51,6 +51,17 @@
           "url": "https://mesaderegalos.liverpool.com.mx/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Cuenta",
+      "title": "BBVA",
+      "description": "Cuenta BBVA Tarjeta #9999999999",
+      "tags": ["Regalos", "cuenta", "BBVA"],
+      "image": {
+        "src": "../../images/bbva.jpeg",
+        "alt": "Cuenta BBVA"
+      }
     }
   ],
   "button": {

@@ -34,6 +34,23 @@
           "url": "https://goo.gl/maps/sNdhZxYcqzsoM3Zr5/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Mesa de Regalo",
+      "title": "Liverpool",
+      "description": "mesa de regalo liverpool",
+      "tags": ["Regalos", "Liverpool"],
+      "image": {
+        "src": "../../images/liverpool-face.png",
+        "alt": "Mesa de liverpool"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://mesaderegalos.liverpool.com.mx/"
+        }
+      ]
     }
   ],
   "button": {

@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import * as classes from './style.module.css';
+import { Animation, Section } from "gatsby-theme-portfolio-minimal";
 
 class Countdown extends Component {
   constructor(props) {
@@ -81,6 +82,9 @@ class Countdown extends Component {
     const countDown = this.state;
 
     return (
+
+      <Animation type="fadeUp" delay={400}>
+      <Section>
       <div className={classes.CountdownSection}>
         <div className={classes.Title}>Para el gran día faltan: </div>
         <div className={classes.Countdown}>
@@ -113,6 +117,8 @@ class Countdown extends Component {
           </span>
         </div>
       </div>
+      </Section>
+      </Animation>
     );
   }
 }

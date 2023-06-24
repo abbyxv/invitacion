@@ -1,0 +1,47 @@
+.CountdownContainer {
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 50vh;
+}
+
+.CountdownSection {
+    width: 100%;
+    height: auto;
+    max-width: var(--page-width);
+    margin: 0 auto 8rem auto;
+    padding: var(--page-padding);
+}
+
+.Title {
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.375rem;
+    margin-bottom: 4rem;
+}
+
+.Subtitle {
+    margin: -0.5rem 0 0 0;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+}
+.Countdown {
+    margin: 10px auto;
+    padding-bottom: 20px;
+}
+
+.CountdownCol {
+    display: inline-block;
+}
+
+.CountdownColElement {
+    display: inline-block;
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.CountdownColElement strong {
+    font-size: 50px;
+}

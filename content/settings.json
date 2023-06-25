@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Mis Quince" },
+    "logo": { "text": "Abby XV" },
     "navigation": {
       "header": [
         { "label": "Mensaje", "url": "/#invitacion" },
@@ -29,8 +29,6 @@
         "url": "/AbbyXV.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
       ]
     },
     "featureToggles": {

@@ -20,7 +20,7 @@
       "header": [
         { "label": "Mensaje", "url": "/#invitacion" },
         { "label": "Noticias", "url": "/noticias" },
-        { "label": "Lugar", "url": "/#lugar" },
+        { "label": "Detalles", "url": "/#detalles" },
         { "label": "Confirma Asistencia", "url": "/#contacto" }
       ],
       "ctaButton": {

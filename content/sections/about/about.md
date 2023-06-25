@@ -20,4 +20,8 @@ Este viernes 28 de Julio del 2023 estamos invitando a la fiesta de nuestra queri
   - Pamela Zúñiga
 
 
-![This is the alt tag.](../../images/avatar.png "This is a markdown [caption](https://konstantin.digital).")
+![Foto en un muelle](../../images/muelle.png "")
+
+![Foto en la playa](../../images/playa.png "")
+
+![Foto en columpio](../../images/columpio.png "")

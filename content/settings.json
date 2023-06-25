@@ -11,7 +11,7 @@
     "social": {
       "instagram": "https://www.instagram.com/abbyXV15/",
       "mail": "mailto:abbyxv15@gmail.com",
-      "medium": "https://medium.com/@abbyxv15/"
+      "medium": "https://medium.com/@abbyxv15"
     }
   },
   "siteConfiguration": {
@@ -19,7 +19,7 @@
     "navigation": {
       "header": [
         { "label": "Mensaje", "url": "/#invitacion" },
-        { "label": "Noticias", "url": "/noticias" },
+        { "label": "Noticias", "url": "/#noticias" },
         { "label": "Detalles", "url": "/#detalles" },
         { "label": "Confirma Asistencia", "url": "/#contacto" }
       ],

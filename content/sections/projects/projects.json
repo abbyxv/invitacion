@@ -38,18 +38,19 @@
     },
     {
       "visible": true,
-      "category": "Mesa de Regalo",
-      "title": "Liverpool",
-      "description": "mesa de regalo liverpool",
-      "tags": ["Regalos", "Liverpool"],
+      "category": "Mesa de Regalos",
+      "title": "Amazon",
+      "description": "mesa de regalo Amazon",
+      "tags": ["Mesa de Regalos", "Amazon"],
       "image": {
-        "src": "../../images/liverpool-face.png",
-        "alt": "Mesa de liverpool"
-      },
+        "src": "../../images/mesaamazon.png",
+        "alt": "Mesa de Regalos",
+        "linkTo": "https://www.amazon.com.mx/registries/gl/guest-view/1M9M54B8E4QJR"
+              },
       "links": [
         {
           "type": "external",
-          "url": "https://mesaderegalos.liverpool.com.mx/"
+          "url": "https://www.amazon.com.mx/registries/gl/guest-view/1M9M54B8E4QJR"
         }
       ]
     },

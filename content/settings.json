@@ -18,16 +18,11 @@
     "logo": { "text": "Abby XV" },
     "navigation": {
       "header": [
-        { "label": "Mensaje", "url": "/#invitacion" },
+        { "label": "Invitacion", "url": "/#invitacion" },
         { "label": "Noticias", "url": "/#noticias" },
         { "label": "Detalles", "url": "/#detalles" },
         { "label": "Confirma Asistencia", "url": "/#contacto" }
       ],
-      "ctaButton": {
-        "openNewTab": true,
-        "label": "Invitación",
-        "url": "/AbbyXV.pdf"
-      },
       "footer": [
       ]
     },

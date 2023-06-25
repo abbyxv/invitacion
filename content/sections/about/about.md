@@ -13,11 +13,11 @@ Este viernes 28 de Julio del 2023 estamos invitando a la fiesta de nuestra queri
 #### RECEPCION: 19:30 horas
 
    - FONTANA EVENTOS, Salon: Venecia.
-   - Republica Mexicana No. 711, San Nicolás de los Garza.
+   - República Mexicana No. 711, San Nicolás de los Garza.
 
 #### PADRES: 
   - Tony Cepeda y 
-  - Pamela Zuñiga
+  - Pamela Zúñiga
 
 
 ![This is the alt tag.](../../images/avatar.png "This is a markdown [caption](https://konstantin.digital).")

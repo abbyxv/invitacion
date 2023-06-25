@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/AbbyXV.png"
+imageSrc: "../../images/muelle.png"
 imageAlt: "Quinceaños Abby"
 ---
 
@@ -19,8 +19,6 @@ Este viernes 28 de Julio del 2023 estamos invitando a la fiesta de nuestra queri
   - Tony Cepeda y 
   - Pamela Zúñiga
 
-
-![Foto en un muelle](../../images/muelle.png "")
 
 ![Foto en la playa](../../images/playa.png "")
 

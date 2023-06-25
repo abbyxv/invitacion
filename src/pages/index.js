@@ -17,7 +17,7 @@ export default function IndexPage() {
       <Seo title="Invitación XV años de Abby" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <Countdown date="July 29, 2023 18:00:00 GMT-60:00" />
+        <Countdown date="July 28, 2023 18:00:00 GMT-60:00" />
         <ArticlesSection sectionId="noticias" heading="Ultimas Noticias" sources={['medium']} />
         <AboutSection sectionId="invitacion" heading="Invitación" />
         <InterestsSection sectionId="detalles" heading="Detalles" />

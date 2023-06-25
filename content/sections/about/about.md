@@ -3,7 +3,7 @@ imageSrc: "../../images/AbbyXV.png"
 imageAlt: "Quinceaños Abby"
 ---
 
-Este 29 de Julio del 2023 estamos invitando a la fiesta de nuestra querida Abby, que cumple 15 años.
+Este viernes 28 de Julio del 2023 estamos invitando a la fiesta de nuestra querida Abby, que cumple 15 años.
 
 #### IGLESIA: 18:00 Horas
 

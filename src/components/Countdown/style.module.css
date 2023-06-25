@@ -1,5 +1,5 @@
 .CountdownContainer {
-    display: block;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     min-height: 50vh;
@@ -10,7 +10,6 @@
     height: auto;
     max-width: var(--page-width);
     margin: 0 auto 8rem auto;
-    padding: var(--page-padding);
 }
 
 .Title {
@@ -29,6 +28,7 @@
 .Countdown {
     margin: 10px auto;
     padding-bottom: 20px;
+    align-content: center;
 }
 
 .CountdownCol {

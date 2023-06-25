@@ -2,36 +2,37 @@
   "projects": [
     {
       "visible": true,
-      "category": "⛪︎ MISA: ",
-      "title": "Parroquia XXXX",
-      "description": "Dirección calle X.",
-      "tags": ["Misa"],
+      "category": "⛪︎ MISA 18:00: Capilla San Jose",
+      "title": "Parroquia De la Santa Cruz",
+      "description": "C. Cerro del Topo 215, Las Puentes 2do Sector, 66460",
+      "tags": ["San Nicolas de los Garza", "Nuevo León"],
       "image": {
-        "src": "../../images/iglesia.jpeg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/iglesia.png",
+        "alt": "Parroquia De la Santa Cruz",
+        "linkTo": "https://goo.gl/maps/k7zXgp7GdAQjd4DC8"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://goo.gl/maps/sNdhZxYcqzsoM3Zr5/"
+          "url": "https://goo.gl/maps/LuBvsFhY4sKsCTCK7"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🪩 Recepción",
-      "title": "Salón XXXX",
-      "description": "Calle: XXX Dirección",
-      "tags": ["Baile", "Música"],
+      "category": "🎊 RECEPCIÓN 19:30: Salon Venecia",
+      "title": "FONTANA EVENTOS",
+      "description": "Av. República Mexicana, 711 Col. Riveras de las Puentes, 66465",
+      "tags": ["San Nicolas de los Garza", "Nuevo León"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/salondeeventos.png",
+        "alt": "FONTANA EVENTOS",
+        "linkTo": "https://goo.gl/maps/5xZwd7X4YmqJyT1GA"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://goo.gl/maps/sNdhZxYcqzsoM3Zr5/"
+          "url": "https://goo.gl/maps/5xZwd7X4YmqJyT1GA"
         }
       ]
     },

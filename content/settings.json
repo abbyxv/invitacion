@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "es",
     "siteUrl": "https://abby-xv.sytes.net/",
-    "title": "AbbyXV",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "Fiesta Xv años de Abby.",
+    "title": "Abby XV",
+    "titleTemplate": "%s Mis Quince",
+    "description": "Abby Mis Quince",
     "author": "Abby",
     "avatar": "../content/images/avatar.png",
     "bio": "Quinceaños de Abby.",
@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Abby XV" },
+    "logo": { "text": "Mis Quince" },
     "navigation": {
       "header": [
         { "label": "Mensaje", "url": "/#invitacion" },

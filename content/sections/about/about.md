@@ -3,11 +3,18 @@ imageSrc: "../../images/AbbyXV.png"
 imageAlt: "Quinceaños Abby"
 ---
 
-Este dia -- de ------- de el 2023 estamos invitando a la fiesta de nuestra querida Abby, que cumple 15 años.
+Este 29 de Julio del 2023 estamos invitando a la fiesta de nuestra querida Abby, que cumple 15 años.
 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+PADRES: 
+  - Tony Cepeda y 
+  - Pamela Zuñiga
 
-bla bla 
-bla bla 
-bla bla 
-bla bla 
+IGLESIA: 18:00 Horas
+
+  - PARROQUIA DE LA SANTA CRUZ, Capilla: San Jose. 
+  - Cerro del Topo 215, Las Puentes 2 sec, San Nicolás de los Garza.
+
+RECEPCION: 19:30 horas
+
+   - FONTANA EVENTOS, Salon: Venecia.
+   - Republica Mexicana No. 711, San Nicolás de los Garza.

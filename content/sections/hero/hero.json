@@ -1,14 +1,14 @@
 {
-  "intro": "Hola",
+  "intro": "Te espero para compartir",
   "heroPhoto": {
     "src": "../../images/AbbyXV.png",
-    "alt": "My Photo"
+    "alt": "Abby XV"
   },
-  "title": "Estas invitado al XV de Abby",
+  "title": "la alegría de esa noche",
   "subtitle": {
-    "prefix": "Preparate para  ",
-    "highlight": "la fiesta",
-    "suffix": "."
+    "prefix": "que será para mi ",
+    "highlight": "mágica",
+    "suffix": " y única."
   },
   "description": "Te esperamos.",
   "socialProfiles": {

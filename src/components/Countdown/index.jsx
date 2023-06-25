@@ -83,8 +83,9 @@ class Countdown extends Component {
 
     return (
 
-      <Animation type="fadeUp" delay={400}>
-      <Section>
+      <Animation type="fadeDown" delay={1000}>
+            <Section anchor={this.props.sectionId}>
+                
       <div className={classes.CountdownSection}>
         <div className={classes.Title}>Para el gran día faltan: </div>
         <div className={classes.Countdown}>

@@ -1,51 +1,44 @@
 {
   "interests": [
     {
-      "label": "Fecha: Julio 28",
+      "label": "Fecha: Julio 29",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/calendar.png",
         "alt": ""
       }
     },
     {
-      "label": "Hora: 17:00",
+      "label": "Hora: 18:00",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/reloj.png",
         "alt": ""
       }
     },
     {
-      "label": "Misa: Parroquia XXXXX",
+      "label": "Misa: Parroquia De la Santa Cruz",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/capilla.png",
         "alt": ""
       }
     },
     {
-      "label": "Recepción: Salón XXXXXX",
+      "label": "Recepción: FONTANA EVENTOS",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/fiesta.png",
         "alt": ""
       }
     },
     {
-      "label": "Vestimenta: formal",
+      "label": "Vestimenta: Etiqueta",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/etiqueta.png",
         "alt": ""
       }
     },
     {
-      "label": "Regalo",
+      "label": "🎁 o 📩",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "o Sobre",
-      "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/shopping-bags.png",
         "alt": ""
       }
     },

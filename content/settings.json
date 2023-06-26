@@ -1,11 +1,12 @@
 {
   "siteMetadata": {
     "language": "es",
-    "siteUrl": "https://abby-xv.sytes.net/",
+    "siteUrl": "https://abbyxv.sytes.net/",
     "title": "Abby XV",
     "titleTemplate": "%s Mis Quince",
     "description": "Abby Mis Quince",
     "author": "Abby",
+    "thumbnail": "../content/images/AbbyXV.png",
     "avatar": "../content/images/avatar.png",
     "bio": "Quinceaños de Abby.",
     "social": {

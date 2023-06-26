@@ -1,16 +1,16 @@
 {
-  "intro": "Te espero para compartir",
+  "intro": "Los momentos más esperados se sueñan, se imaginan, se construyen y hoy, que el día ha llegado, lo más importante, es que estés a mi lado.",
   "heroPhoto": {
     "src": "../../images/favicon.png",
     "alt": "Abby XV"
   },
-  "title": "la alegría de esa noche",
+  "title": " ",
   "subtitle": {
-    "prefix": "que será para mi ",
-    "highlight": "mágica",
-    "suffix": " y única."
+    "prefix": "Te invito a Mis XV Años.",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "Te esperamos.",
+  "description": "",
   "socialProfiles": {
     "from": ["Instagram"],
     "showIcons": false

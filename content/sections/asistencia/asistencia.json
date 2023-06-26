@@ -1,0 +1,14 @@
+{
+  "description": "Por favor, confirma tu asistencia y el número de personas para que podamos tener todo listo para tu llegada, al whatsapp +52.81.2063.5361",
+  "socialProfiles": {
+    "from": ["Instagram"],
+    "showIcons": true
+  },
+  "name": "",
+  "email": "",
+  "button": {
+    "visible": true,
+    "label": "Confirmar Asistencia",
+    "url": "https://api.whatsapp.com/send?phone=+5218120635361&text=quiero%20confirmar%20mi%20asistencia%20al%20XV%20de%20Abby%20,el%20número%20de%20personas%20es%20"
+  }
+}

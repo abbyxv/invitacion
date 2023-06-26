@@ -2,7 +2,6 @@ import React from "react";
 import {
   AboutSection,
   ArticlesSection,
-  ContactSection,
   InterestsSection,
   Page,
   ProjectsSection,
@@ -10,6 +9,7 @@ import {
 } from "gatsby-theme-portfolio-minimal";
 import Countdown from "../components/Countdown";
 import { HeroSection } from "../components/Hero";
+import { AsistenciaSection } from "../components/Asistencia";
 
 export default function IndexPage() {
   return (
@@ -22,7 +22,7 @@ export default function IndexPage() {
         <AboutSection sectionId="invitacion" heading="Invitación" />
         <InterestsSection sectionId="detalles" heading="Detalles" />
         <ProjectsSection sectionId="lugar" heading="Lugar" />
-        <ContactSection sectionId="contacto" heading="Confirma Asistencia" />
+        <AsistenciaSection sectionId="confirmarAsistencia" heading="Confirma Asistencia" />
       </Page>
     </>
   );

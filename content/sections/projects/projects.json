@@ -67,7 +67,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Confirmar Asistencia",
     "url": "https://api.whatsapp.com/send?phone=+5218120635361&text=quiero%20confirmar%20mi%20asistencia%20al%20XV%20de%20Abby%20,el%20número%20de%20personas%20es%20"
   }

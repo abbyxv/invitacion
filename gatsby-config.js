@@ -9,8 +9,8 @@ module.exports = {
           siteName: "Abby XV", // Used in manifest.json
           shortName: "Abby XV", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
-          backgroundColor: "#F4BBD0", // Used in manifest.json
-          themeColor: "#F4BBD0", // Used in manifest.json
+          backgroundColor: "#5d434c", // Used in manifest.json
+          themeColor: "#5d434c", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",

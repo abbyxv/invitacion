@@ -3,13 +3,13 @@ import {
   AboutSection,
   ArticlesSection,
   ContactSection,
-  HeroSection,
   InterestsSection,
   Page,
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 import Countdown from "../components/Countdown";
+import { HeroSection } from "../components/Hero";
 
 export default function IndexPage() {
   return (

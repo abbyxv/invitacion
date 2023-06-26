@@ -29,6 +29,7 @@
     margin: 10px auto;
     padding-bottom: 20px;
     align-content: center;
+    min-width: 316px;
 }
 
 .CountdownCol {

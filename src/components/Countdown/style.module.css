@@ -29,7 +29,6 @@
     margin: 10px auto;
     padding-bottom: 20px;
     align-content: center;
-    min-width: 316px;
 }
 
 .CountdownCol {
@@ -38,15 +37,36 @@
 
 .CountdownColElement {
     display: inline-block;
-    margin: 0 6px;
+    margin: 0 9px;
     display: flex;
     flex-direction: column;
-    
-    span {
-        font-size: .7rem;
-    }
 }
 
 .CountdownColElement strong {
-    font-size: 50px;
+    font-size: 100px;
+    padding-bottom: 0.5em;
+}
+
+.CountdownColElement span {
+    font-size: 3rem;
+}
+
+
+@media (max-width: 768px) {
+    .Countdown {
+        max-width: 316px;
+        align-content: center;
+    }
+    .CountdownColElement {
+        margin: 0 3px;
+    }
+
+    .CountdownColElement strong {
+        font-size: 50px;
+    }
+    
+    .CountdownColElement span {
+        font-size: .8rem;
+        padding-bottom: 0;
+    }
 }

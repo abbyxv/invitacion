@@ -41,6 +41,10 @@
     margin: 0 6px;
     display: flex;
     flex-direction: column;
+    
+    span {
+        font-size: .7rem;
+    }
 }
 
 .CountdownColElement strong {

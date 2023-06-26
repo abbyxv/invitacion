@@ -14,7 +14,7 @@ import { HeroSection } from "../components/Hero";
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Invitación XV años de Abby" />
+      <Seo title="Invitación XV años de Abby" description="XV años de Abby, Viernes 28 de Julio, confirma asistencia al " />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <Countdown date="July 28, 2023 18:00:00 GMT-60:00" />

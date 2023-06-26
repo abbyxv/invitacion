@@ -21,6 +21,7 @@
         { "label": "Invitacion", "url": "/#invitacion" },
         { "label": "Noticias", "url": "/#noticias" },
         { "label": "Detalles", "url": "/#detalles" },
+        { "label": "Lugar", "url": "/#lugar" },
         { "label": "Confirma Asistencia", "url": "/#contacto" }
       ],
       "footer": [

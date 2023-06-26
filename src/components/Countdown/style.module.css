@@ -38,7 +38,7 @@
 
 .CountdownColElement {
     display: inline-block;
-    margin: 0 9px;
+    margin: 0 6px;
     display: flex;
     flex-direction: column;
 }

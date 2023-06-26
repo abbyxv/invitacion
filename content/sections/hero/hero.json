@@ -12,6 +12,7 @@
   },
   "description": "Te esperamos.",
   "socialProfiles": {
-    "showIcons": true
+    "from": ["Instagram"],
+    "showIcons": false
   }
 }

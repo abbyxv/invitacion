@@ -48,7 +48,7 @@
 }
 
 .CountdownColElement span {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 
@@ -58,11 +58,12 @@
         align-content: center;
     }
     .CountdownColElement {
-        margin: 0 3px;
+        margin: 0 6px;
     }
 
     .CountdownColElement strong {
-        font-size: 50px;
+        font-size: 45px;
+        padding-bottom: unset;
     }
     
     .CountdownColElement span {

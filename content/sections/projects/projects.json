@@ -40,8 +40,8 @@
       "visible": true,
       "category": "Mesa de Regalos",
       "title": "Amazon",
-      "description": "mesa de regalo Amazon",
-      "tags": ["Mesa de Regalos", "Amazon"],
+      "description": "",
+      "tags": [],
       "image": {
         "src": "../../images/mesaamazon.png",
         "alt": "Mesa de Regalos",
@@ -55,11 +55,11 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "Cuenta",
       "title": "BBVA",
       "description": "Cuenta BBVA Tarjeta #9999999999",
-      "tags": ["Regalos", "cuenta", "BBVA"],
+      "tags": [],
       "image": {
         "src": "../../images/bbva.jpeg",
         "alt": "Cuenta BBVA"

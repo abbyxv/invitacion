@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/muelle.png"
+imageSrc: "../../images/Abby.png"
 imageAlt: "Quinceaños Abby"
 ---
 

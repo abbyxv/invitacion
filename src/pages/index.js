@@ -1,7 +1,6 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
   InterestsSection,
   Page,
   ProjectsSection,
@@ -10,6 +9,7 @@ import {
 import Countdown from "../components/Countdown";
 import { HeroSection } from "../components/Hero";
 import { AsistenciaSection } from "../components/Asistencia";
+import { ArticlesSection } from "../components/Articles";
 
 export default function IndexPage() {
   return (

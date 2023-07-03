@@ -25,5 +25,13 @@ module.exports = {
         // }
       },
     },
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: 'ABBYXV.SYTES.NET',
+        matomoUrl: 'https://abbyxv.matomo.cloud/',
+        siteUrl: 'https://abbyxv.sytes.net/'
+      }
+    }
   ],
 };

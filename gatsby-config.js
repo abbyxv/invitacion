@@ -30,7 +30,9 @@ module.exports = {
       options: {
         siteId: '1',
         matomoUrl: 'https://abbyxv.matomo.cloud/',
-        siteUrl: 'https://abbyxv.sytes.net/'
+        siteUrl: 'https://abbyxv.sytes.net/',
+        requireConsent: false,
+        dev: true,
       }
     }
   ],
